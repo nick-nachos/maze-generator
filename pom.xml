@@ -29,7 +29,7 @@
                     <archive>
                         <manifest>
                             <addClasspath>true</addClasspath>
-                            <mainClass>com.redgate.mazegenerator.Main</mainClass>
+                            <mainClass>org.mazegenerator.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
