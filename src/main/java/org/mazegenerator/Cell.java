@@ -1,4 +1,4 @@
-package com.redgate.mazegenerator;
+package org.mazegenerator;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.redgate.mazegenerator;
+package org.mazegenerator;
 
 public class Wall {
 

@@ -1,4 +1,4 @@
-package com.redgate.mazegenerator;
+package org.mazegenerator;
 
 import org.apache.commons.cli.CommandLine;
 import org.apache.commons.cli.CommandLineParser;
